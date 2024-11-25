@@ -30,12 +30,4 @@ The **Medical Expense Predictor Chatbot** is a user-friendly tool powered by mac
 3. **Plan for Dependents**: For users with children, consider family insurance plans to optimize costs.
 4. **Preventive Care**: Regular check-ups can help manage age-related health risks and lower medical expenses.
 
----
 
-### For Further Development
-1. Integrate additional features like predictions based on medical history or specific health conditions.
-2. Enhance model accuracy by incorporating larger and more diverse datasets.
-3. Develop a mobile-friendly version of the chatbot for wider accessibility.
-4. Expand the app to include real-time data analysis and user-specific healthcare insights.
-
-By following these recommendations, the tool can be further refined to provide even greater value and utility to users.
